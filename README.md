@@ -6,7 +6,7 @@
 更多说明看官方仓库。
 
 ## 一键部署
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FJERRY-SYSTEM%2FChatGPT_Pandora&project-name=chatgpt-pandora&repository-name=chatgpt-pandora&framework=other)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fzhengyuping%2Fchatgpt_Pandora&project-name=chatgpt-pandora&repository-name=chatgpt-pandora&framework=other)
 + 测试网站 [https://chat.lovepcsys.top](https://chat.lovepcsys.top)
 
 ## **环境变量**
